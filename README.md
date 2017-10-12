@@ -9,6 +9,7 @@ Las teclas para mover a Mario son:
  - Saltar (BARRA ESPACIADORA)
 
 Videojuego
+----------
 ![Super Mario Bros](/mario.png)
 
 ## Requisitos
