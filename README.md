@@ -14,3 +14,4 @@ Videojuego
 
 ## Requisitos
  - Navegador Web con soporte HTML5
+ Cambio
